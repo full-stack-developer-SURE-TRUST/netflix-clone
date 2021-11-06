@@ -1,0 +1,8 @@
+API Key (v3 auth)
+7e57c0a3adee3014968f5ac04752c2bd
+
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=7e57c0a3adee3014968f5ac04752c2bd
+
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3ZTU3YzBhM2FkZWUzMDE0OTY4ZjVhYzA0NzUyYzJiZCIsInN1YiI6IjYxODBkNmU5Y2I2ZGI1MDA0MmI4NDgwNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.dGKak8uExUHbSXvgDJMcx-BcAU9IQ6grvCcfORYWSo4
