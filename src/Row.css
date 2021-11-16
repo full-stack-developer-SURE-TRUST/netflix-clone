@@ -14,14 +14,14 @@
   
   .row_poster {
     object-fit: contain;
-    width: 100%;
+    width: 150px;
     max-height: 100px;
-    margin-right: 10px;
-    transform: trasform 450ms;
+    margin-right: 6px;
+    transform: scaleY(1.5)  
   }
   
   .row__poster:hover {
-    transform: scale(1.08);
+    transform: scale(1.18);
   }
   
   .row__posterLarge {
@@ -29,5 +29,5 @@
   }
   .row__posterLarge:hover {
     transform: scale(1.09);
-    /* opacity: 1; */
+    opacity: 1;
   }

@@ -1,16 +1,11 @@
 import React, { useState } from "react";
-import YouTube from "react-youtube";
 import axios from "./axios";
 import "./Row.css";
-import movieTrailer from "./movie-trailer";
 
 const base_url = "https://image.tmdb.org/t/p/original/";
 
 function Row({ title, fetchUrl, isLargeRow }) {
   const[Movies , setMovies] = useState([]);
-  const[trailerUrl, setTrailerUrl] = useState("");
-
-
 
 
   // A snippet of code which runs based on a specific condition
